@@ -1,0 +1,13 @@
+Idea: Allow students to upload text copied from textbooks or articles, have that text be uploaded
+to chagpt and summarized according to chosed intensity, then taking that text and using TTS to output
+the summarized version of the text in popular celbertie figures or cartoon characters etc. Another 
+possible idea could be to summary of a specfic topic in "Something" terms ex: Soccer terms, like 
+for historical events eg: WW2, Germany was pertending to be Luiz Suarez and Took it a little to far
+
+Research:
+
+AI, do we want to use an external API OR locally:
+FreeGPT4
+
+TTS:
+https://medium.com/@gpj/making-your-ai-sound-like-you-a-guide-to-creating-custom-text-to-speech-8b595d5cf259
